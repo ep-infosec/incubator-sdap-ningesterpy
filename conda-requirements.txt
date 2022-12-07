@@ -1,0 +1,4 @@
+scipy=1.3.2
+nco=4.9.1
+netcdf4=1.5.3
+xarray=0.15.0
